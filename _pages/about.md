@@ -15,6 +15,6 @@ selected_papers: false
 social: true
 ---
 
-Welcome! I am an Assistant Professor of Marketing at Rutgers Business School, Rutgers University. I received my Ph.D. in Quantitative Marketing from Temple University's Fox School of Business in 2025.
+I am an Assistant Professor of Marketing at Rutgers Business School, Newark and New Brunswick. My research focuses on digital marketing, social media, and nonprofit marketing. I combine multimodal machine learning, LLMs, and causal inference to inform strategic marketing decisions in the digital era.
 
-My research sits at the intersection of **multimodal machine learning** and **digital marketing**. I develop and apply deep learning methods — including computer vision, natural language processing, and video analytics — to study consumer behavior on social media, live streaming platforms, and digital fundraising contexts.
+I hold a Ph.D. in Quantitative Marketing from Temple University, an M.S. in Business Analytics from The George Washington University, and a B.S. in Business Administration from The University of Nottingham.
