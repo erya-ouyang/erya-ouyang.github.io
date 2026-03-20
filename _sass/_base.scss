@@ -7,6 +7,14 @@ html {
   font-size: 18px;
 }
 
+// Blue publication title links
+a.pub-link {
+  color: #1772d0 !important;
+  &:hover {
+    color: #1155aa !important;
+  }
+}
+
 body {
   line-height: 1.9;
 }

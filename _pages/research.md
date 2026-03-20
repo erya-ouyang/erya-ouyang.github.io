@@ -9,31 +9,17 @@ nav_order: 2
 
 ## Publications
 
-**[Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of Microenterprises](https://doi.org/10.1002/smj.3597)**
-<br>X. Luo, N. Jia, **E. Ouyang**, Z. Fang
-<br>*Strategic Management Journal*, 2024
+Xueming Luo, Nan Jia, **Erya Ouyang**, and Zheng Fang. "<a href="https://doi.org/10.1002/smj.3597" class="pub-link">Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of Microenterprises.</a>" *Strategic Management Journal*, 2024.
 
 ---
 
-**[Community Gifting and Recipients' Engagement with Peers and Influencers: Evidence from Natural Experiments on Twitch](https://doi.org/10.1177/10949968241257891)**
-<br>A. Chaudhry, Y. Wang, **E. Ouyang**
-<br>*Journal of Interactive Marketing*, 2024
+Alexander Chaudhry, Yang Wang, and **Erya Ouyang**. "<a href="https://doi.org/10.1177/10949968241257891" class="pub-link">Community Gifting and Recipients' Engagement with Peers and Influencers: Evidence from Natural Experiments on Twitch.</a>" *Journal of Interactive Marketing*, 2024.
 
 ---
 
-## Under Review
+## Working Papers
 
-**Music Motion Synergy: A Multi-Modal Deep Learning Measure for Unveiling Engagement and Consumer Insights in Social Media Videos**
-<br>**E. Ouyang**, W. Wang, X. Luo
-<br>*Under Review*
+**Erya Ouyang** and Ai Jin. "Transforming Digital Attention into Social Action: A Multimodal AI Framework for Digital Philanthropy."
 
----
-
-## Work in Progress
-
-**Transforming Digital Attention into Social Action: A Multimodal AI Framework for Digital Philanthropy**
-<br>**E. Ouyang**, J. Ai &nbsp;·&nbsp; *Data Analysis*
-
-**Attention Capital to Economic Capital: The Effectiveness of NPO Campaigns in Social Media**
-<br>**E. Ouyang**, J. Ai &nbsp;·&nbsp; *Data Analysis*
+**Erya Ouyang** and Ai Jin. "Attention Capital to Economic Capital: The Effectiveness of NPO Campaigns in Social Media."
 
