@@ -2,96 +2,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Erya Ouyang
+    - name: Position
+      value: Assistant Professor of Marketing
+    - name: Institution
+      value: Rutgers Business School, Rutgers University
+    - name: Email
+      value: erya.ouyang@business.rutgers.edu
     - name: Languages
-      value: English, German
+      value: English (Fluent), Chinese (Native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Quantitative Marketing
+      institution: Temple University, Fox School of Business
+      year: 2025
+    - title: MS in Business Analytics
+      institution: The George Washington University, School of Business
+      year: 2019
+    - title: BS in Business Administration
+      institution: The University of Nottingham, Nottingham University Business School
+      year: 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Assistant Professor of Marketing
+      institution: Rutgers Business School, Rutgers University
+      year: 2025 - Present
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Digital Marketing (Instructor)
+      institution: Rutgers University
+      year: 2025 - 2026
+    - title: Customer Data Analytics using Python (Instructor)
+      institution: Temple University
+      year: 2023
 
-- title: Honors and Awards
+- title: Honors, Grants, and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2026
+      items:
+        - "Chancellor's Seed Grant Program — Rutgers University ($50,000)"
+    - year: 2024
+      items:
+        - "Dean's Outstanding Publication Award — Fox School of Business"
+        - "Cochran Award for Excellence in Research — Fox School of Business"
+        - "AMA-Sheth Foundation Doctoral Consortium Fellow (Manchester, UK)"
+        - "ISMS Doctoral Consortium Fellow (Sydney, Australia)"
+    - year: 2023
+      items:
+        - "ISMS Doctoral Consortium Fellow (Miami, Florida)"
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Methodological
       items:
-        - Description 1.
-        - Description 2.
+        - Multimodal Machine Learning
+        - Deep Learning
+        - Computer Vision
+        - Natural Language Processing
+        - Video Analytics
+        - Causal Inference
+    - title: Substantive
+      items:
+        - LLMs and Digital Marketing
+        - Fundraising and Digital Philanthropy
+        - Social Media and Influencer Marketing
+        - Live Streaming Platforms
+        - Retail Analytics
+        - Digital Platforms
 
-- title: Other Interests
-  type: list
+- title: Skills
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Programming Languages and Tools
+      items:
+        - R, Python, Stata, Linux, SQL
+    - title: Machine Learning Tools
+      items:
+        - PyTorch, TensorFlow, Sklearn, Pandas, NumPy
