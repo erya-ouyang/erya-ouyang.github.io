@@ -7,6 +7,14 @@ html {
   font-size: 18px;
 }
 
+// Vertical oval profile image
+.profile img {
+  border-radius: 50% / 40%;
+  object-fit: cover;
+  aspect-ratio: 3 / 4;
+  width: 100%;
+}
+
 // Blue publication title links
 a.pub-link {
   color: #2a5db0 !important;

@@ -7,7 +7,7 @@ subtitle: Assistant Professor of Marketing · <a href="https://www.business.rutg
 profile:
   align: right
   image: erya_profile_img.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false
 
 news: false
 latest_posts: false
