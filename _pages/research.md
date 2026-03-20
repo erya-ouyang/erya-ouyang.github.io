@@ -39,14 +39,3 @@ nav_order: 2
 **Attention Capital to Economic Capital: The Effectiveness of NPO Campaigns in Social Media**
 <br>**E. Ouyang**, J. Ai &nbsp;·&nbsp; *Data Analysis*
 
-**Estimating the Market Response to the Introduction of Plant-Based Meat Substitutes Using Foot Traffic Data**
-<br>**E. Ouyang**, Y. Wang, X. Luo &nbsp;·&nbsp; *Manuscript in Preparation*
-
-**Joint Effort or Solo Flight: Strategic Insights into Social Media Posting from a Multimodal Media Design Perspective**
-<br>**E. Ouyang**, X. Luo &nbsp;·&nbsp; *Manuscript in Preparation*
-
-**The Minimum Wage Legislation on Gig Workers**
-<br>**E. Ouyang** &nbsp;·&nbsp; *Data Collection*
-
-**From Exploration to Connection: The Role of Community Ties in Content Creation**
-<br>**E. Ouyang** &nbsp;·&nbsp; *Data Collection*
