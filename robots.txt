@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eryaouyang.github.io/sitemap.xml
+Sitemap: https://erya-ouyang.github.io/sitemap.xml
