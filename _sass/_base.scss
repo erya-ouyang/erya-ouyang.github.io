@@ -2,6 +2,19 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Typography overrides
+html {
+  font-size: 18px;
+}
+
+body {
+  line-height: 1.9;
+}
+
+p {
+  margin-bottom: 1.4rem;
+}
+
 // Typography
 
 p,
