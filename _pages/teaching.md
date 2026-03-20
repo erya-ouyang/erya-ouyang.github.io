@@ -1,12 +1,24 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Rutgers University
 
-Organize your courses by years, topics, or universities, however you like!
+**Digital Marketing**
+<br>Instructor &nbsp;·&nbsp; Fall 2025, Spring 2026
+
+This course covers the fundamentals and advanced strategies of digital marketing, including social media marketing, search engine optimization, content marketing, and data-driven campaign analysis.
+
+---
+
+## Temple University
+
+**Customer Data Analytics using Python**
+<br>Instructor &nbsp;·&nbsp; Fall 2023
+
+An applied course teaching students to use Python for marketing analytics, including data wrangling, visualization, machine learning, and customer behavior modeling using real-world datasets.
