@@ -7,13 +7,13 @@ html {
   font-size: 18px;
 }
 
-// Round profile image
+// Profile image
 .profile img {
   width: 160px !important;
-  height: 160px !important;
+  height: 211px !important;
   object-fit: cover;
-  object-position: center 15%;
-  border-radius: 50%;
+  object-position: center;
+  border-radius: 16px;
   display: block;
 }
 
